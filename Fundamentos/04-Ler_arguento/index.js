@@ -15,3 +15,5 @@ const idade = args[1].split("=")[1]
 console.log(idade)
 
 console.log(`O seu nome é: ${nome} com idade: ${idade}`)
+
+// recebendo argumentos pela liha de comando
